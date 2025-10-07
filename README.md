@@ -35,4 +35,4 @@
 ---
 
 📫 **Let’s connect:**  
-🔗 [GitHub](https://github.com/Vida181105) • ✉️ vidanadheera@gmail.com
+🔗 [GitHub](https://github.com/Vida181105) • ✉️ vidanadheera18@gmail.com
