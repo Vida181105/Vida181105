@@ -1,6 +1,6 @@
 # Hi, I'm Vida Nadheera S 👋  
 
-🎓 **Third-year B.Tech CSE–AI student** at *Amrita Vishwa Vidyapeetham, Coimbatore.*  
+🎓 **Final year B.Tech CSE–AI student** at *Amrita Vishwa Vidyapeetham, Coimbatore.*  
 
 ---
 
