@@ -37,7 +37,16 @@ Comparative benchmarking of five forecasting models on real-world turbine data.
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### 📈 GitHub Stats
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vida181105&theme=default)
+
+<p float="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vida181105&theme=default" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vida181105&theme=default" width="49%" />
+</p>
+
 ### 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vida181105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vida-nadheera-b9bba8390)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidanadheera18@gmail.com)
