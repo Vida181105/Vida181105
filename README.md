@@ -9,13 +9,9 @@ Final-year B.Tech CSE-AI student at Amrita Vishwa Vidyapeetham, Coimbatore
 ### About Me
 
 🎓 Final-year B.Tech CSE-AI @ Amrita Vishwa Vidyapeetham, Coimbatore, India
-Focused on applied AI and machine learning — deep learning, generative modeling, and data-driven system design — with an emphasis on building things that work end-to-end, not just in a notebook.
-📄 **Research:** 2 accepted papers — Springer ICADMSES 2026, IEEE INDICON 2025
+Focused on applied AI and machine learning — deep learning, generative modeling, and data-driven system design.
 
-**🎯 Open to**
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-6C2EB9?style=for-the-badge)
-![Software Development](https://img.shields.io/badge/Software%20Development-6C2EB9?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-6C2EB9?style=for-the-badge)
+**🎯 Open to:** AI Engineering · SDE · Data Science · Cloud, and related roles
 
 ### 📄 Publications
 
@@ -47,4 +43,5 @@ Comparative benchmarking of five forecasting models on real-world turbine data.
 
 ### 📫 Connect
 
-[GitHub](https://github.com/Vida181105) · [vidanadheera18@gmail.com](mailto:vidanadheera18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vida181105)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidanadheera18@gmail.com)
