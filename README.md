@@ -6,6 +6,7 @@
 
 🎓 Final-year B.Tech CSE-AI @ Amrita Vishwa Vidyapeetham, Coimbatore, India
 Focused on applied AI and machine learning — deep learning, generative modeling, and data-driven system design.
+
 🎯 **Open to:** AI Engineering · SDE · Data Science · Cloud, and related roles
 
 ###  Publications
@@ -45,8 +46,8 @@ Comparative benchmarking of five forecasting models on real-world turbine data.
 ###  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vida181105&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vida181105&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 ###  Connect
