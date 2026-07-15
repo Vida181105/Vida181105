@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Vida Nadheera S 👋</h1>
 
-<p align="center">
-Final-year B.Tech CSE-AI student at Amrita Vishwa Vidyapeetham, Coimbatore
-</p>
-
 ---
 
 ### About Me
