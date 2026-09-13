@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="233.63"
+          width="233.33"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.63"
+          x="233.33"
           y="0"
-          width="10.55"
+          width="10.85"
           height="8"
           fill="#3572A5"
         />
@@ -158,7 +158,7 @@
           data-testid="lang-progress"
           x="244.18"
           y="0"
-          width="13.129999999999999"
+          width="13.120000000000001"
           height="8"
           fill="#f1e05a"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.31"
+          x="247.3"
           y="0"
-          width="12.32"
+          width="12.31"
           height="8"
           fill="#3178c6"
         />
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.63"
+          x="249.61"
           y="0"
           width="10.33"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.96"
+          x="249.94000000000003"
           y="0"
           width="10.05"
           height="8"
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 93.45%
+        Jupyter Notebook 93.33%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 4.22%
+        Python 4.34%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
